@@ -1,0 +1,9 @@
+{
+    "input_file": "text.txt",
+    "target_language": "en",
+    "module": "deep",   
+    "output": "screen", 
+    "max_characters": 1000,
+    "max_words": 250,
+    "max_sentences": 20
+}
